@@ -1,4 +1,4 @@
 # site project
 
-+main branch
-	+footer branch 
++ main branch
+	+ footer branch 
